@@ -1,0 +1,19 @@
+.jumbotron {
+    padding: 8%;
+    background-image: url("https://wallpapercave.com/wp/wp6012631.jpg");
+    background-position: center;
+}
+
+body {
+    background-color: rgb(206, 228, 236);
+}
+
+.card-image-top {
+    opacity: 2;
+}
+
+.row {
+    opacity: 0.5;
+    box-shadow: black;
+    padding: 8%;
+}
